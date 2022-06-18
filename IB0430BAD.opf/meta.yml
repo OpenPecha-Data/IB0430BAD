@@ -1,0 +1,40 @@
+id: IB0430BAD
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:00:47.156125'
+last_modified: '2022-06-19T01:00:47.156138'
+parser: null
+source_metadata:
+  title: rDo rje gdans Seasonal Ritual Practice and Its Textual Foundation
+  author: མི་གསལ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2015-03-28);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (INTERNAL); This text edition is in progress
+    and only intended for SRC internal usage. It should not be further distributed
+    at this present
+
+    stage. (src)'
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/908
+  bases:
+    9ddd:
+      title: rDo rje gdans Seasonal Ritual Practice and Its Textual Foundation
+      order: 1
+      base_file: 9ddd.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
